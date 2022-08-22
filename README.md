@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # Welcome to my GitHub profile!
-**I'm Ghouse who is enthusiastic about Data Science, Big Data and Aritificial Intelligence. **
+** I'm Ghouse who is enthusiastic about Data Science, Big Data and Aritificial Intelligence. **
 
 - ⚡ Primary Coding Language: **Python**
 - 📫 How to reach me: **[Email me anything](mailto:mgmohiuddin2001@gmail.com)**
