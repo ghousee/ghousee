@@ -1,9 +1,75 @@
-# Hi there 👋
+# Hi there, I'm Ghouse Mohiuddin Mohammed 👋
 
-# Welcome to my GitHub profile!
-**I'm Ghouse who is enthusiastic about Data Science, Big Data and Aritificial Intelligence.**
+## 👨‍💻 About Me
 
-- ⚡ Primary Coding Language: **Python**
-- 📫 How to reach me: **[Email me anything](mailto:mgmohiuddin2001@gmail.com)**
-- 💬 Connect with me: **[LinkedIn](https://www.linkedin.com/in/ghouse-mohiuddin-mohammed-5690181b6/)**
-- 🌱 Working on: Augmented Reality Teaching Application using Python and OpenCV.
+I'm a passionate Master's student in Information Systems at [Northeastern University, Toronto](https://www.northeastern.edu/), located at First Canadian Place. With a strong foundation in software development and a keen interest in problem-solving, I focus on creating efficient, scalable, and user-friendly solutions. My current projects and learning focus include:
+
+- Developing an **Electronic Medical Records (EMR)** system with role-based access control.
+- Creating a **Facebook Marketplace clone** using **Angular**.
+- Strengthening my **Data Structures and Algorithms (DSA)** knowledge for interview preparation.
+- Exploring opportunities in **AI/ML** and honing my skills for the tech industry.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Java, Python, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Angular, Material UI, Java Swing
+- **Databases:** MySQL, Firebase (API Integration)
+- **Tools & Platforms:** Git, GitHub, NetBeans, SceneBuilder
+- **Other Expertise:**
+  - Building user-friendly interfaces
+  - Implementing RESTful APIs
+  - Working in MVC architecture
+
+---
+
+## 💼 Projects
+
+### 📋 Task Management System
+- **Description:** A Java Swing application implementing MVC for task creation and management with role-based access control for admins and users.
+- **Features:**
+  - Admin and user-specific dashboards.
+  - Task assignment and validation.
+  - Clean architecture with efficient data handling.
+
+### 🛒 Facebook Marketplace Clone
+- **Description:** A marketplace application built with Angular for users to post, buy, and sell items.
+- **Features:**
+  - User and admin roles with tailored permissions.
+  - Real-time post management using APIs.
+  - Secure and intuitive user experience.
+
+### 🩺 Electronic Medical Records System
+- **Description:** A healthcare application managing patient data and workflows across roles such as Admin, Nurse, and Doctor.
+- **Features:**
+  - Vitals form for nurses.
+  - Admin capabilities for user role management.
+
+---
+
+## 🎯 Goals
+
+- Secure a **Software Development Internship** for Summer 2025.
+- Continuously improve my **problem-solving skills** and **DSA knowledge**.
+- Build solutions that have a positive impact.
+- Transition into the **AI/ML domain** after establishing a strong development foundation.
+
+---
+
+## 🌐 Let's Connect
+
+- **LinkedIn:** [Ghouse Mohiuddin Mohammed](https://www.linkedin.com/in/ghouse-mohiuddin-mohammed/)
+- **GitHub:** [@ghousemohiuddin](https://github.com/ghousee)
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out for collaboration, mentorship, or just to say hi!
+
+---
+
+### 🚀 Fun Fact
+
+I aspire to start my own tech company one day!
