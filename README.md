@@ -6,7 +6,6 @@ I'm a passionate Master's student in Information Systems at [Northeastern Univer
 
 - Developing an **Electronic Medical Records (EMR)** system with role-based access control.
 - Creating a **Facebook Marketplace clone** using **Angular**.
-- Strengthening my **Data Structures and Algorithms (DSA)** knowledge for interview preparation.
 - Exploring opportunities in **AI/ML** and honing my skills for the tech industry.
 
 ---
