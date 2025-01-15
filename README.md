@@ -72,4 +72,4 @@ Feel free to reach out for collaboration, mentorship, or just to say hi!
 
 ### 🚀 Fun Fact
 
-I aspire to start my own tech company one day!
+I enjoy meeting new people and learning about different cultures, sports activities and festives celebrated in different ares of the world. 
