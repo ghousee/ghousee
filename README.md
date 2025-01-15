@@ -59,7 +59,7 @@ I'm a passionate Master's student in Information Systems at [Northeastern Univer
 ## 🌐 Let's Connect
 
 - **LinkedIn:** [Ghouse Mohiuddin Mohammed](https://www.linkedin.com/in/ghouse-mohiuddin-mohammed/)
-- **GitHub:** [ghousee](https://cdn-icons-png.flaticon.com/512/25/25231.png)(https://github.com/ghousee)
+- **GitHub:** [ghousee](https://github.com/ghousee)
 
 ---
 
